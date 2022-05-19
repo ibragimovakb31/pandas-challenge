@@ -8,7 +8,6 @@ Heroes Of Pymoli Data Analysis
 
 *The top 5 revenue generators bring in roughly 10% of the overall revenue
 <img width="655" alt="Screen Shot 2022-05-19 at 2 47 33 PM" src="https://user-images.githubusercontent.com/95655181/169377436-590b741e-b028-4936-a672-c3db71e8c53a.png">
-<img width="652" alt="Screen Shot 2022-05-19 at 2 47 38 PM" src="https://user-images.githubusercontent.com/95655181/169377520-0627dd7f-c081-4a06-92cf-76af41437b51.png">
 <img width="490" alt="Screen Shot 2022-05-19 at 2 47 26 PM" src="https://user-images.githubusercontent.com/95655181/169377534-67ffa039-dc29-4358-bf8b-62219a11ae5a.png">
 <img width="501" alt="Screen Shot 2022-05-19 at 2 47 16 PM" src="https://user-images.githubusercontent.com/95655181/169377540-66bc372c-63d0-4670-b964-d567e78f69f3.png">
 <img width="320" alt="Screen Shot 2022-05-19 at 2 47 11 PM" src="https://user-images.githubusercontent.com/95655181/169377593-56b5198d-a5d6-4a41-85bd-24554e5168a7.png">
